@@ -1,0 +1,1 @@
+I will use this template in all of my project that need webpack
