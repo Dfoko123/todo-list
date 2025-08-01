@@ -1,0 +1,5 @@
+#contain{
+    background-color: white;
+    grid-column: 2/3;
+    position: relative;
+}
