@@ -1,5 +1,5 @@
 import "./style.css";
-import "./contain.css"
+import "./allTask.css"
 export function contain(){
     const container=document.querySelector("#container");
     const contain=document.querySelector("#contain");

@@ -1,6 +1,6 @@
 import { task } from "./showTask";
 import "./style.css";
-import "./contain.css"
+import "./allTask.css"
 export function insert(){
     const contain=document.querySelector("#contain");
     const title=document.createElement("p");
